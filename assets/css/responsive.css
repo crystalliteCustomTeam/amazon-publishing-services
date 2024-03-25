@@ -1,0 +1,278 @@
+@media(max-width:1440px) {
+    .about__home_intro img {
+        width: 40%;
+        right: -69px;
+
+    }
+
+    .site-header {
+        min-height: 105px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 14px;
+        padding: 0px 18px;
+    }
+
+    .banner__grid p {
+        font-size: 13px;
+        line-height: 23px;
+    }
+
+    .banner__grid h1 {
+        font-size: 40px;
+        line-height: 38px;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin-bottom: 0px;
+        color: #e87600;
+    }
+
+    .banner {
+        padding: 40px 0 60px;
+    }
+
+    .banner__grid .btn-group a {
+        font-size: 16px;
+        line-height: 14px;
+        padding: 15px 15px;
+    }
+
+    .banner-slide .slick-slide img {
+        width: 90%;
+    }
+
+    .about__home_intro a {
+        font-size: 14px;
+        line-height: 14px;
+        padding: 12px 10px;
+    }
+
+    section.sec_cta {
+        padding: 30px 0;
+    }
+
+    img#service_img {
+        width: 100%;
+    }
+
+    .banner__grid h6 {
+        font-size: 26px;
+        line-height: 30px;
+        margin-bottom: 10px;
+    }
+
+    .cta-sec2 h3 {
+        font-weight: 700;
+        font-size: 35px;
+    }
+
+    .cta-sec2 {
+        padding: 20px 0;
+    }
+
+    section.sec_ebooks .ebooks_inner .ebooks_boxes * img {
+        filter: sepia(1);
+        width: 50px;
+    }
+
+    .fade_img {
+        width: 40%;
+    }
+}
+
+@media (max-width:1199px) {
+    .footer__grid {
+        display: unset;
+    }
+
+    .socialMedia {
+        justify-content: flex-start;
+        margin-bottom: 10px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px;
+        padding: 0px 5px;
+    }
+
+    .banner__grid h1 {
+        font-size: 35px;
+    }
+
+    p {
+        font-size: 13px !important;
+    }
+
+    .banner__grid h6 {
+        font-size: 23px;
+        line-height: 23px;
+    }
+
+    .about__home_intro a {
+        font-size: 13px;
+    }
+
+    section.sec_cta .cta_inner .cta_right h2 {
+        font-size: 30px;
+    }
+
+    section.sec_ebooks .ebooks_inner .ebooks_boxes * img {
+        width: 40px;
+    }
+
+    .portfolio_slide .slick-slide img {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .how-to .how-to-inner ol.list-unstyled li {
+
+        padding-right: 0%;
+    }
+
+    .how-to .how-to-inner .how-to-inner-r {
+        padding-left: 0px;
+    }
+
+    .lib-video-section {
+        min-height: 170px;
+    }
+
+    .lib-video-section h3 {
+        font-size: 40px;
+    }
+
+    .footer2_top form .row {
+        flex-direction: column;
+    }
+
+    .footer2_top form .row .col-md-6 {
+        width: 100%;
+    }
+
+    .footer2_top form .row .col-md-9 {
+        width: 100%;
+    }
+
+    section.sec_ebooks .ebooks_inner .ebooks_boxes * img {
+        margin-bottom: 10px;
+    }
+
+    section.sec_ebooks .ebooks_inner .ebooks_boxes {
+        padding: 20px 3px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: fit-content;
+    }
+
+    .navbar-light .navbar-brand img {
+        width: 140px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 12px;
+        padding: 0px 2px;
+    }
+
+    .bookSec h2,
+    .about__home_intro h2 {
+        font-size: 23px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .navbar-light .navbar-brand img {
+        width: 160px;
+    }
+
+    .site-header .container.header-contents {
+        flex-direction: column;
+    }
+
+    .about__home_intro img {
+        width: 80%;
+        right: 0px;
+        margin: 0 auto;
+        display: block;
+        top: 30px;
+    }
+
+    section.sec_cta .cta_inner .cta_left {
+        text-align: center;
+    }
+
+    section.sec_cta .cta_inner .cta_right .number,
+    .overlary,
+    .lib-video-section {
+        display: none;
+    }
+
+    .cta-sec2 h3 {
+        font-size: 30px;
+    }
+
+    .site-footer {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 20px;
+    }
+
+    .footer_col_four,
+    .footer_col_two {
+        padding-top: 20px;
+    }
+
+    .contact_info h5 {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .footer_phone a h3 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .copyright ul{
+        justify-content: center;
+    }
+    .copyright{
+        text-align: center;
+    }
+    .banner__grid h6 {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .banner__grid h1 {
+        font-size: 30px;
+    }
+    .pricing .nav-pills .nav-link {
+        padding: 0px;
+        font-size: 12px;
+        width: 160px;
+        height: 50px;
+    }
+    .pricing .card{
+        margin-bottom: 1rem;
+    }
+    .banner__grid h5 {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 10px;
+    }
+    .pricing .nav-pills .nav-item+.nav-item {
+        margin-left: 10px;
+    }
+    .pricing{
+        padding: 0px;
+    }
+    .accordion-item:first-of-type .accordion-button,.accordion-button{
+        font-size: 13px;
+    }
+}
+
+@media(max-width:567px) {}
